@@ -1,0 +1,241 @@
+
+/*****strat defult*****/
+
+.navbar-default
+{
+  
+/*    background-color: #c9bbcb;*/
+     
+    background-image: linear-gradient(to right,#403A3E ,#BE5869); 
+
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a
+{
+/*    color:#373737;    */
+    color: #eee;
+  
+}
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover
+{
+    color:#fff;
+    transform: scale(1.2);
+    
+  
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover
+{
+    background-color: transparent;
+    color: #fff;
+    font-weight: 600;
+    letter-spacing: 1px;
+   
+}
+/**nav*/
+
+
+.slider
+{
+/*      background-image: linear-gradient(to right,#F7971E , #FFD200); */
+      background-image: linear-gradient(to right,#403A3E ,#BE5869); 
+    
+}
+.prag-slider h1
+{
+    color: #FFFAFA;
+/*    color:#262626;*/
+
+
+}
+.prag-slider p
+{
+/*    color: black;*/
+    color: #fff;
+
+}
+
+/**slider*/
+
+.line
+{
+    width: 7px;
+    margin: auto;
+    height: 100px;
+    background-image: url(../img/line3.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+/**line*/
+
+
+.div-plubox
+{
+    background-image: linear-gradient(to right,#403A3E ,#BE5869);  
+}
+/**pluebox*/
+
+
+.btn-mshro3
+{
+
+   background-image: linear-gradient(to right,#403A3E ,#BE5869); 
+
+}
+
+.btn-mshro3:hover
+{
+   background-image: linear-gradient(to right,#403A3E ,#BE5869);  
+}
+/**mshroo3*/
+
+
+.vedio
+{
+    background-image: linear-gradient(to right,#403A3E ,#BE5869); 
+}
+ 
+/**vedio*/
+
+.bg-color-twasl
+{
+  background-image: linear-gradient(to right,#403A3E ,#BE5869); 
+}
+
+
+.bckg-twasl .btn 
+{
+
+   background-image: linear-gradient(to right,#403A3E ,#BE5869);  
+    border-color: 1px solid #BE5869);
+    
+}
+/**twasl*/
+
+.contact
+{
+  background-image: linear-gradient(to right,#403A3E ,#BE5869);  
+    color: #fff;
+
+}
+
+.links a
+{
+    text-decoration: none;
+    color: #fff;   
+}
+
+.links button 
+{
+    background-color:black;
+    color: #eee;
+
+}
+
+/**contact*/
+
+
+.footer
+{
+    
+/*    background-color:#FFBC01;*/
+   background-image: linear-gradient(to right,#403A3E ,#BE5869);  
+    color: #fff;
+
+}
+/**footer*/
+/*****end defult*****/
+
+
+
+.hed-bk
+{
+  
+     background-image: linear-gradient(to right,#403A3E ,#BE5869); 
+     color: #fff;
+
+}
+
+.tab-list .active
+{
+   
+  background-image: linear-gradient(to right,#403A3E ,#BE5869); 
+    transition: all  ease-in-out 0.5s;
+
+}
+
+.tab-list .active, .tab-list li:hover
+{
+   
+   background-image: linear-gradient(to right,#403A3E ,#BE5869); 
+     color: #fff;
+
+}
+
+
+
+/***************** contact us *************/
+.adres
+{
+     
+   background-image: linear-gradient(to right,#403A3E ,#BE5869); 
+    border: 1px solid #BE5869;
+}
+
+.awsome i
+{
+    color: #BE5869;
+    border: 1px solid #BE5869;
+}
+
+.awsome i:hover {
+      
+   background-color: #BE5869;
+}
+
+.contform
+{
+    border:  1px dashed #BE5869;
+}
+
+
+.btn-contact
+{
+    background-image: linear-gradient(to right,#403A3E ,#BE5869); 
+    border: 1px solid #BE5869;
+}
+
+
+
+/***************** contact us *************/
+.adres
+{
+    background-color:#6A444C;
+    border: 1px solid #6A444C ;
+    color: #fff;
+}
+
+.awsome i
+{
+    
+    color: #6A444C;
+    border: 1px solid #6A444C;
+}
+
+.awsome i:hover {
+      
+   background-color:#6A444C;
+        color: #fff;
+
+}
+
+.contform
+{
+    border:  1px dashed #6A444C;
+}
+
+
+.btn-contact
+{
+    background-image: linear-gradient(to right,#403A3E ,#BE5869); 
+    border: 1px solid #6A444C;
+}

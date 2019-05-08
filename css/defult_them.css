@@ -1,0 +1,113 @@
+/*****strat defult*****/
+
+.navbar-default
+{
+    background-color: #E74A41;
+    border-color: #E74A41;
+      
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover
+{
+    background-color: transparent;
+    color: #fff;
+    font-weight: 600;
+    letter-spacing: 1px;
+   
+}
+/**nav*/
+
+
+.slider
+{
+         background-color:#E74A41; 
+}
+
+/**slider*/
+
+.line
+{
+    width: 7px;
+    margin: auto;
+    height: 100px;
+    background-image: url(../img/lINE.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+/**line*/
+
+
+.div-plubox
+{
+    background-color:#E04541;  
+}
+/**pluebox*/
+
+
+.btn-mshro3
+{
+
+    background-color: #E74A41;
+
+}
+
+.btn-mshro3:hover
+{
+    color: #E74A41; 
+}
+/**mshroo3*/
+
+
+.vedio
+{
+    background-color:#D03A3B;
+}
+ 
+/**vedio*/
+
+.bg-color-twasl
+{
+  background-color:#D9403C;
+}
+
+
+.bckg-twasl .btn 
+{
+
+    background-color:#D9403C;    
+}
+/**twasl*/
+
+.contact
+{
+    background-color:#D9403C;
+
+}
+
+/**contact*/
+
+
+.footer
+{
+    background-color:#D03B3B; 
+}
+/**footer*/
+/*****end defult*****/
+
+
+
+.hed-bk
+{
+    background-color: #E74A41;
+}
+
+.tab-list .active, 
+{
+    background-color: #E74A41;
+}
+
+.tab-list .active,
+.tab-list li:hover{
+    background-color: #E74A41;
+    color: #fff;
+}

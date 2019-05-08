@@ -1,0 +1,147 @@
+/** strat head gallary**/
+
+
+.hed-bk
+{
+    background-color: #E74A41;
+    color: #fff;
+    padding: 50px;
+ 
+}
+.sizeclod
+{
+    width: 8%;
+    margin-right: 50px;
+}
+.hed-bk h1 
+{
+    font-size: 40px;
+}
+
+
+
+/***start choose**/
+    
+.img-pro1 img
+{
+  
+    width: 100%;
+    margin-bottom: 20px;
+    margin: auto;
+} 
+
+.bigphoto
+{
+    margin-bottom: 25px;
+    position: relative;
+}
+.psor
+{
+    background-color:transparent;
+    position: absolute;
+    bottom: 30px;
+    left: 60px;
+    color: transparent;
+    padding: 20px;
+    cursor: pointer;  
+    text-align: center;
+
+}
+
+.psor h4
+{
+    font-weight: 600;
+    margin-top: 15px;
+    text-align: center;
+}
+
+.psor p 
+{
+    font-size: 12px;
+    color: transparent;
+    text-align: center;
+}
+
+
+.psor:hover
+{
+    position: absolute;
+    top: 20px;
+    left: 30px;
+    background-color: rgb(244, 80, 95 ,0.8);
+    color: black;
+    width: 300px;
+}
+
+ 
+.psor:hover h4 
+{
+    color: #fff;
+    margin-top: 120px;
+    transition: all ease-in-out 0.5s;
+}
+.psor:hover p
+{
+    color: #fff;
+    transition: all ease-in-out 0.5s;
+}
+
+.buttnlast
+{
+    margin: auto;
+    text-align: center;
+
+}
+
+.redmore
+{
+   border-radius: 0px;  
+    color: aliceblue;
+    background-color: #DC394C;
+    margin: auto;
+    padding-right: 30px;
+    padding-left: 30px;
+    margin-top: 40px;
+    
+}
+.redmore:hover
+{
+    color: aliceblue;
+}
+
+.tabs
+{
+    text-align: center;
+}
+.tab-list
+{
+    padding: 30px 30px;
+}
+.tab-list li
+{
+    display: inline-block;
+    padding: 15px 60px;
+    border: 1px solid #eee;
+    cursor: pointer;
+    transition: all ease-in-out 0.3s;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size:16px;
+    letter-spacing: 1px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.tab-list .active,
+.tab-list li:hover{
+    background-color: #CE2E41;
+    color: #fff;
+}
+
+.contect-list > div:not(:first-child)
+{
+    display: none;
+}
+
+/**end choose**/
+/** strat head gallary**/

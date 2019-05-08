@@ -1,0 +1,209 @@
+
+/*****strat defult*****/
+
+.navbar-default
+{
+    
+/*    background-image: linear-gradient(to right,#F7971E , #FFD200); */
+      background-color: #FDC614;
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a
+{
+/*    color:#373737;    */
+     color: #371E35;
+  
+}
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover
+{
+    color: #333;
+    
+  
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover
+{
+    background-color: transparent;
+    font-weight: 600;
+    color: #371E35;
+    letter-spacing: 1px;
+   
+   
+}
+  
+
+/**nav*/
+
+
+.slider
+{
+/*      background-image: linear-gradient(to right,#F7971E , #FFD200);   */
+    background-color: #FDC614;
+}
+.prag-slider h1
+{
+    
+/*    color:#262626;*/
+/*    color: #371E35;*/
+    color: #3B2414;
+
+}
+.prag-slider p
+{
+/*    color: black;*/
+/*    color: #371E35;*/
+    color: #3B2414;
+  
+}
+
+/**slider*/
+
+.line
+{
+    width: 7px;
+    margin: auto;
+    height: 100px;
+    background-image: url(../img/lINE12.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+/**line*/
+
+
+.div-plubox
+{
+    background-image: linear-gradient(to right,#F7971E , #FFD200); 
+}
+/**pluebox*/
+
+
+.btn-mshro3
+{
+
+   background-image: linear-gradient(to right,#F7971E , #FFD200); 
+
+}
+
+.btn-mshro3:hover
+{
+   background-image: linear-gradient(to right,#F7971E , #FFD200); 
+}
+/**mshroo3*/
+
+
+.vedio
+{
+    background-image: linear-gradient(to right,#F7971E , #FFD200); 
+}
+ 
+/**vedio*/
+
+.bg-color-twasl
+{
+  background-image: linear-gradient(to right,#F7971E , #FFD200); 
+}
+
+
+.bckg-twasl .btn 
+{
+
+   background-image: linear-gradient(to right,#F7971E , #FFD200);  
+    border-color: 1px solid #FFBC01;
+}
+/**twasl*/
+
+.contact
+{
+   background-image: linear-gradient(to right,#F7971E , #FFD200); 
+    color: #3B2414; 
+
+}
+
+.links a
+{
+    text-decoration: none;
+    color: #3B2414;   
+}
+
+.links button 
+{
+    background-color:#3B2414; 
+    color: #eee;
+
+}
+
+/**contact*/
+
+
+.footer
+{
+    
+/*    background-color:#FFBC01;*/
+    background-image: linear-gradient(to right,#F7971E , #FFD200); 
+    color: black;
+
+}
+/**footer*/
+/*****end defult*****/
+
+
+
+
+.hed-bk
+{
+  
+     background-color: #FDC614;
+     color: #3B2414;
+
+}
+
+.tab-list .active
+{
+   
+  
+   background-image: linear-gradient(to right,#F7971E , #FFD200); 
+    transition: all  ease-in-out 0.5s;
+
+}
+
+.tab-list .active, .tab-list li:hover
+{
+   
+   background-image: linear-gradient(to right,#F7971E , #FFD200); 
+     color: #3B2414;
+
+}
+
+
+
+/***************** contact us *************/
+.adres
+{
+    background-color: #FDC614;
+    border: 1px solid #FDC614;
+    color: #3B2414;
+}
+
+.awsome i
+{
+    color: #FDC614;
+    border: 1px solid #FDC614;
+}
+
+.awsome i:hover {
+      
+   background-color: #FDC614;
+        color: #3B2414;
+
+}
+
+.contform
+{
+    border:  1px dashed #FDC614;
+}
+
+
+.btn-contact
+{
+   background-image: linear-gradient(to right,#F7971E , #FFD200);  
+    border: 1px solid #FDC614;
+}
